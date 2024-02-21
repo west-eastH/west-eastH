@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**west-eastH/west-eastH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={west_east})](https://solved.ac/{west_east})
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# 🛠 Tech Stack 🛠
+### 🌱 Programming Language
+![](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
+### 🌱 Framework
+![](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) 
+![](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
+### 🌱 Tools
+![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) 
+![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) 
