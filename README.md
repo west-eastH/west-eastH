@@ -2,8 +2,11 @@
 
 ![west-eastH's GitHub stats](https://github-readme-stats.vercel.app/api?username=west-eastH&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=west_east)](https://solved.ac/west_east)
----
+
 ## 🛠 Skills 🛠
+### Now I'm studying in
+![42Seoul](https://img.shields.io/badge/Seoul-000000?style=flat&logo=42&logoColor=ffffff)
+
 ###  Programming Language & Framework
 ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
