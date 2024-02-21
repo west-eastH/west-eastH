@@ -5,7 +5,7 @@
 # 🛠 Tech Stack 🛠
 ### 🌱 Programming Language
 ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white)
 ### 🌱 Framework
 ![](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) 
 ![](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
