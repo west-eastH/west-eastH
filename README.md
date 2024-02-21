@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={west_east})](https://solved.ac/{west_east})
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=west_east)](https://solved.ac/west_east)
 ---
 # 🛠 Tech Stack 🛠
 ### 🌱 Programming Language
