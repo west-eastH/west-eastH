@@ -1,5 +1,4 @@
 # SEO DONG HYEON 😎
-### Hi there 👋
 
 ![west-eastH's GitHub stats](https://github-readme-stats.vercel.app/api?username=west-eastH&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=west_east)](https://solved.ac/west_east)
