@@ -11,9 +11,11 @@
 ![Java](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 
 ![](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white) 
 ![](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
 ###  Tools
 ![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) 
 ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) 
